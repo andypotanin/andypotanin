@@ -5,7 +5,7 @@
 - [npmjs.com/~andy.potanin](https://www.npmjs.com/~andy.potanin/)
 - [andypotanin.com](https://andypotanin.com/)
 
---
+---
 
 - [UDX](https://udx.io/)
 - [Transat Campus](https://www.transactcampus.com/)
